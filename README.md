@@ -5,7 +5,7 @@ As the next step in the interview process, we’d like you to complete a coding 
 
 You will be building a beta version of a Virtual Product Management (VPM) APP. There's a postman collection in this repository, Access token is required to get product details based on the country UAE. You will need to take product data and persist it in a backend database. You will then develop a backend API, to be called upon by your frontend, which will display the data. This dashboard should allow registration and login of a user, requiring a password, and the user's credentials should also be persisted in your database.
 
-The result should be a dashboard with two pages (the application can be single-page (SPA), or multiple pages):
+## Expectation
 
 * A registration/login page
 * A main page that displays products with details well formatted 
