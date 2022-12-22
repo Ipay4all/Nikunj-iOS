@@ -13,8 +13,6 @@ You will be building a beta version of a Virtual Product Management (VPM) APP. T
 
 ## Preparing Your Local Development Env
 
-- Make sure you have [enabled signed commits with a GPG key](#signed-commits-with-gpg) on any machine you use during your submission. 
-	- 100% signed commits are required for any submission to be evaluated.
 - Check your local version of Xcode
 	- The very **latest release version** of Xcode is required.
 		- Beta versions of Xcode should **not** be used.
