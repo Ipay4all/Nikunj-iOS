@@ -3,7 +3,7 @@ As the next step in the interview process, we’d like you to complete a coding 
 
 ## The Project
 
-You will be building a beta version of a Virtual Product Management (VPM) APP. There's a postman collection in this repository, Access token is required to get product details based on the country UAE. You will need to take product data and persist it in a backend database. You will then develop a backend API, to be called upon by your frontend, which will display the data. This dashboard should allow registration and login of a user, requiring a password, and the user's credentials should also be persisted in your database.
+You will be building a beta version of a Virtual Product Management (VPM) APP. There's a postman collection in this repository, Access token is required to get product details based on the country UAE. You will need to take product data and persist it in a backend database. You will then develop a backend API or use the same, to be called upon by your frontend, which will display the data. This app should allow registration and login of a user, requiring a password, and the user's credentials should also be persisted in your database.
 
 ## Expectation
 
