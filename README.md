@@ -25,6 +25,13 @@ You will be building a beta version of a Virtual Product Management (VPM) APP. T
 	- In general, make sure to double check your project settings.
 	- There is a starter project with some of this configured already, but you’ll need to make sure the final matches the requirements.
 
+**Backend**
+
+* The backend of this project should be done in Swift. 
+* *product data* and *user credentials* data is persisted in a database. 
+  * Each data point should have a corresponding column in the database.
+  * You may use any databse tool of your choice.
+* API provides frontend with *product details*, and *verified user credentials*.
 
 **Git**
 * Maintain code on git (github/gitlab).
